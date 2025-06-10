@@ -32,7 +32,6 @@ class SistemaComunicaciones implements Callable<String> {
     }
 }
 
-// Clase principal
 public class Main {
     public static void main(String[] args) {
 
