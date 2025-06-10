@@ -4,7 +4,6 @@ public class RecursoMedico {
     private final String nombre;
     private final ReentrantLock lock = new ReentrantLock();
 
-
     public RecursoMedico(String nombre) {
         this.nombre = nombre;
     }
