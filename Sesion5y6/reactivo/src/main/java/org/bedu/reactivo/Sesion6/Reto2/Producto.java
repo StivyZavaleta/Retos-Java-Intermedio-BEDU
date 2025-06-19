@@ -1,3 +1,5 @@
+package org.bedu.reactivo.Sesion6.Reto2;
+
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

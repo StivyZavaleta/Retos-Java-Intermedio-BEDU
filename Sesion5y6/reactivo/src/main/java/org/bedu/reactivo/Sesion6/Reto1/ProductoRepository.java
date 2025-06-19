@@ -1,3 +1,5 @@
+package org.bedu.reactivo.Sesion6.Reto1;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 

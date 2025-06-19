@@ -1,4 +1,4 @@
-package org.bedu.reactivo.Sesion5;
+package org.bedu.reactivo.Sesion5.Reto1;
 
 import reactor.core.publisher.Flux;
 import java.time.Duration;

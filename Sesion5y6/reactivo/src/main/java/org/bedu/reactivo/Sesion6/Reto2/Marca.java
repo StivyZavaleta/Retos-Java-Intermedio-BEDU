@@ -1,3 +1,4 @@
+package org.bedu.reactivo.Sesion6.Reto2;
 import jakarta.persistence.*;
 
 @Entity

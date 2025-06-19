@@ -1,4 +1,4 @@
-package org.bedu.reactivo.Sesion5;
+package org.bedu.reactivo.Sesion5.Reto2;
 
 import java.time.Duration;
 import java.util.Random;
